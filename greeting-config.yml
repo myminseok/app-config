@@ -12,4 +12,4 @@ logging: # <----New sections below
     io:
       pivotal: DEBUG
 greeting:
-  displayFortune: false
+  displayFortune: true
